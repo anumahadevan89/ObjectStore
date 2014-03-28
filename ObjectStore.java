@@ -16,7 +16,6 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 import java.util.Stack;
 
-import org.eclipse.jdt.internal.compiler.lookup.UpdatedMethodBinding;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
